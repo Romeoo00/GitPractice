@@ -4,5 +4,6 @@ public class Test {
 
         System.out.println("FirstGitTest");
         System.out.println("SecondGitTest");
+        System.out.println("ThirdGitTest");
     }
 }
